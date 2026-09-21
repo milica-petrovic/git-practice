@@ -1,0 +1,13 @@
+# Eviroment variables / secrets
+.env 
+
+# Python 
+__pycache__/
+*.pyc
+venv/
+
+# Logs
+*.log
+
+#Build output
+dist/
